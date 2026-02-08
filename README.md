@@ -13,14 +13,14 @@ Experienced in **Maker-Checker, WhatsApp Business API, Multicluster Broadcast, W
 Previously also worked as **Bootcamp Instructor**, helping juniors understand real-world backend development.
 
 ## 🛠 Tech Stack
-**:gear:Backend** </br></br>
+**:gear:Backend** </br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c#" />
   </a>
 </p>
 
-**:desktop_computer:Front-end** </br></br>
+**:desktop_computer:Front-end** </br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,css" />
@@ -28,7 +28,7 @@ Previously also worked as **Bootcamp Instructor**, helping juniors understand re
   <img src="./icon/primefaces.png" height="26" />
 </p>
 
-**:floppy_disk:Database** </br></br>
+**:floppy_disk:Database** </br>
 <img src="./icon/1711743360058.jpg" height="26" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="MySQL" />
@@ -258,22 +258,6 @@ Previously also worked as **Bootcamp Instructor**, helping juniors understand re
     <li>Front-End Development using : CSHTML, knockout.js, vue.js</li>
     <li>Create Barcode & QR Code feature</li>
     <li>Capture Pictures</li>
-  </ul>
-</details>
-<details>
-  <summary><b>📦 Revamp Email</b></summary>
-  <ul>
-    <p>
-        Revamp existing feature email, this project is bigger in UI part, and the back-end is not as complex as the front-end.
-    </p>
-  </ul>
-</details>
-<details>
-  <summary><b>📦 Revamp Email</b></summary>
-  <ul>
-    <p>
-        Revamp existing feature email, this project is bigger in UI part, and the back-end is not as complex as the front-end.
-    </p>
   </ul>
 </details>
 
