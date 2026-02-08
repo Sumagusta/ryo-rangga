@@ -263,6 +263,9 @@ Previously also worked as **Bootcamp Instructor**, helping juniors understand re
 
 ## :bookmark_tabs: Certified Courses
 **Java Bootcamp at PT Xsis Mitra Utama** </br></br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sumagusta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 <img src="https://raw.githubusercontent.com/Sumagusta/Sumagusta/output/snake.svg" alt="Snake animation" />
 
@@ -272,3 +275,4 @@ Previously also worked as **Bootcamp Instructor**, helping juniors understand re
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sumagusta/Sumagusta/output/pacman-contribution-graph.svg">
 </picture>
 
+##
