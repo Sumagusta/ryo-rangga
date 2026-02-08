@@ -13,14 +13,14 @@ Experienced in **Maker-Checker, WhatsApp Business API, Multicluster Broadcast, W
 Previously also worked as **Bootcamp Instructor**, helping juniors understand real-world backend development.
 
 ## 🛠 Tech Stack
-**:gear:Backend** </br>
+**⚙️ Backend** </br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c#" />
   </a>
 </p>
 
-**:desktop_computer:Front-end** </br>
+**🖥️ Front-end** </br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,css" />
@@ -28,13 +28,13 @@ Previously also worked as **Bootcamp Instructor**, helping juniors understand re
   <img src="./icon/primefaces.png" height="26" />
 </p>
 
-**:floppy_disk:Database** </br>
+**💾 Database** </br>
 <img src="./icon/1711743360058.jpg" height="26" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="MySQL" />
 
-## :computer: Project Experience
+## 💻 Project Experience
 
 <details>
   <summary><b>📦 Maker Checker System</b></summary>
@@ -261,7 +261,7 @@ Previously also worked as **Bootcamp Instructor**, helping juniors understand re
   </ul>
 </details>
 
-## :bookmark_tabs: Certified Courses
+## 📑 Certified Courses
 **Java Bootcamp at PT Xsis Mitra Utama** </br></br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sumagusta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
