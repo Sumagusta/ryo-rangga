@@ -13,26 +13,32 @@ Experienced in **Maker-Checker, WhatsApp Business API, Multicluster Broadcast, W
 Previously also worked as **Bootcamp Instructor**, helping juniors understand real-world backend development.
 
 ## 🛠 Tech Stack
-**⚙️ Backend** </br>
+**⚙️ Backend**
+<div style="margin-bottom:10px;">
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c#" />
   </a>
 </p>
+</div>
 
-**🖥️ Front-end** </br>
+**🖥️ Front-end**
+<div style="margin-bottom:10px;">
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,css" />
   </a>
   <img src="./icon/primefaces.png" height="26" />
 </p>
+</div>
 
-**💾 Database** </br>
+**💾 Database**
+<div style="margin-bottom:10px;">
 <img src="./icon/1711743360058.jpg" height="26" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="MySQL" />
+</div>
 
 ## 💻 Project Experience
 
