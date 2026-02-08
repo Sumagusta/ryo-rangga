@@ -13,7 +13,7 @@ Experienced in **Maker-Checker, WhatsApp Business API, Multicluster Broadcast, W
 Previously also worked as **Bootcamp Instructor**, helping juniors understand real-world backend development.
 
 ## 🛠 Tech Stack
-**Backend**
+**:gear:Backend** </br></br>
 <img src="./icon/1711743360058.jpg" height="26" />
 
 <img src="https://raw.githubusercontent.com/Sumagusta/Sumagusta/output/snake.svg" alt="Snake animation" />
