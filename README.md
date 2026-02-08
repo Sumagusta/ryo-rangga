@@ -14,7 +14,7 @@ Previously also worked as **Bootcamp Instructor**, helping juniors understand re
 
 ## 🛠 Tech Stack
 **Backend**
-[![My Skills](./icon/Solr_Logo_on_white.png)]
+<img src="./icon/1711743360058.jpg" height="26" />
 
 <img src="https://raw.githubusercontent.com/Sumagusta/Sumagusta/output/snake.svg" alt="Snake animation" />
 
