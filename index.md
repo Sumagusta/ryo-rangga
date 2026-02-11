@@ -17,7 +17,7 @@ Previously also worked as **Bootcamp Instructor**, helping juniors understand re
 <div style="margin-bottom:10px;">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c#" />
+    <img src="https://skillicons.dev/icons?i=java,cs" />
   </a>
 </p>
 </div>
